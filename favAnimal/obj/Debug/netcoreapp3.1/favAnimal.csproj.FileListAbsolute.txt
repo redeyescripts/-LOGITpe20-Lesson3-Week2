@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week2\favAnimal\bin\Debug\netcoreapp3.1\favAnimal.exe
+C:\Users\opilane\source\repos\Week2\favAnimal\bin\Debug\netcoreapp3.1\favAnimal.deps.json
+C:\Users\opilane\source\repos\Week2\favAnimal\bin\Debug\netcoreapp3.1\favAnimal.runtimeconfig.json
+C:\Users\opilane\source\repos\Week2\favAnimal\bin\Debug\netcoreapp3.1\favAnimal.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week2\favAnimal\bin\Debug\netcoreapp3.1\favAnimal.dll
+C:\Users\opilane\source\repos\Week2\favAnimal\bin\Debug\netcoreapp3.1\favAnimal.pdb
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.dll
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.pdb
+C:\Users\opilane\source\repos\Week2\favAnimal\obj\Debug\netcoreapp3.1\favAnimal.genruntimeconfig.cache

@@ -21,8 +21,8 @@ namespace Week2
             Console.WriteLine("You are " + Age + "years old.");
             ///Console.WriteLine("hello!," + Name + Year);
             Console.WriteLine("Go home "+ Name !);
-            string No;
-                 = Console.ReadLine("No, " + );
+            
+                
             
            
 
